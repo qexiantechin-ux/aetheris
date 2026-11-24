@@ -1,0 +1,6 @@
+{
+  "name": "Aetheris Observatory",
+  "description": "Interactive 3D planetarium and interstellar star atlas with high-resolution procedural planetary models and seamless multi-scale exploration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
